@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>oracle.png</file>
+        <file>data.txt</file>
+    </qresource>
+</RCC>
