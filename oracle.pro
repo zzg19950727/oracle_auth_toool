@@ -20,7 +20,8 @@ SOURCES += main.cpp\
     change_view.cpp \
     change_info.cpp \
     deal_data.cpp \
-    log.cpp
+    log.cpp \
+    tes.cpp
 
 HEADERS  += mainwindow.h \
     info.h \
